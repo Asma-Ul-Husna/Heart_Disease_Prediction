@@ -13,7 +13,8 @@ Git, github to store source code
 
 
 
-Git command 
+## Git command 
+
 1. git init - initialize git repository
 2. git add . - add all files to git repository
 3. git commit -m "message" - commit all files to git repository
