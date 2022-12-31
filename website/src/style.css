@@ -1,0 +1,68 @@
+body{
+  margin: 0px;
+  background-color: red;
+}
+.menu{
+  position: fixed;
+  width: 100%;
+}
+.menu nav ul{
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.menu nav ul li{
+  display: inline;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+
+.content{
+  min-height: 100vh;
+
+}
+
+.title{
+  text-align: center;
+  padding:100px;
+  background-color: rgb(244, 253, 229);
+}
+.content_title{
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.parent_review{
+  display: flex;
+}
+.review{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+ 
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  width: 100%;
+
+}
+footer p{
+  margin: 0px;
+  padding: 10px 10px;
+}
