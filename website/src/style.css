@@ -1,7 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
 body{
   margin: 0px;
-  background-color: red;
 }
+
 .menu{
   position: fixed;
   width: 100%;
@@ -66,3 +70,5 @@ footer p{
   margin: 0px;
   padding: 10px 10px;
 }
+
+

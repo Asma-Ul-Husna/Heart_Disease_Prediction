@@ -1,0 +1,13 @@
+.form{
+ padding-top: 60px;
+ margin-left: 50px;
+min-height: 100vh;
+}
+
+.heading h3{
+  margin: 0px;
+  padding: 0px;}
+
+.submitButton{
+  margin-left: 250px;
+}
